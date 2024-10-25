@@ -1,0 +1,22 @@
+#include <Servo.h>
+
+const int servoPin = 9;  // Servo motor pin
+Servo servo;
+
+void setup() {
+  servo.attach(servoPin);
+}
+
+void loop() {
+  // Sweep servo from 0 to 180 degrees
+  for (int angle = 0; angle <= 180; angle++) {
+    servo.write(angle);
+    delay(5);
+  }
+  
+  // Sweep servo from 180 to 0 degrees
+  for (int angle = 180; angle >= 0; angle--) {
+    servo.write(angle);
+    delay(5);
+  }
+}
