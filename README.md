@@ -1,6 +1,7 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# Pappadam Crush-O-Matic:പൊടിയ്ക്കലിന്റെ പുതിയ തലമുറ 🎯
+# Pappadam Crush-O-Matic
+പൊടിയ്ക്കലിന്റെ പുതിയ തലമുറ 🎯
 
 
 ## Basic Details
@@ -37,29 +38,26 @@ For Hardware:
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+![circuit diadram](https://github.com/user-attachments/assets/9f36940e-dbd5-43d2-9f8c-99b983d7bde3)
+
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![WhatsApp Image 2024-10-26 at 3 14 54 AM-min](https://github.com/user-attachments/assets/70e5aaa3-4027-4396-b1cb-261f8147f45d)
+Arduino hardware and software
+![WhatsApp Image 2024-10-26 at 3 16 29 AM-min](https://github.com/user-attachments/assets/35b69439-545c-407c-b6fd-173cf1ac5d2e)
+Servo motor and switches
+![WhatsApp Image 2024-10-26 at 12 06 16 AM-min](https://github.com/user-attachments/assets/9b59b455-7cde-4933-a901-68281e3f45cd)
+connected the servo motor and switch with arduino
+![WhatsApp Image 2024-10-26 at 2 56 41 AM-min](https://github.com/user-attachments/assets/a82761f9-a8d2-45d7-a35b-9ac23adb2ffe)
+Final result after implementation
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+![Result](https://drive.google.com/file/d/145kNNSYz-6PCCAmwdQ_LlIw5b7r_LmUN/view?usp=drive_link)
 Working of the pappadam crus-o-matic
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - Swathika S: Hardware connection
