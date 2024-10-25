@@ -1,63 +1,38 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Pappadam Crush-O-Matic:പൊടിയ്ക്കലിന്റെ പുതിയ തലമുറ 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: InnoMinds
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Swathika S - Government college of engineering kannur
+- Member 2: Dhanupriya K- Government college of engineering kannur
+- Member 3: Fathima Sana PV - Government college of engineering kannur
 
 ### Project Description
-[2-3 lines about what your project does]
+An automatic Pappadam crusher that automates the task of crushing pappadams.Usind arduino and servo motors,this bot seamlessly breaks down the pappadams.Perfect for make lazy people more lazier, adding a touch of convenience and fun to any dinning experience.
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+### The Problem 
+Have you ever faced the catastrophic crisis of crushed pappadams? You’re ready to enjoy your meal, but those pesky, delicate snacks refuse to break down into pieces. Instead, they crumple, shatter, or get stuck in your fingers, ruining your dining experience and leading to pappadam panic
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+### The Solution 
+Introducing the Automatic Pappadam Crusher! This quirky device takes the drama out of dining by using an Arduino and a servo motor to effortlessly crush pappadams into perfectly-sized morsels. With just a press of a button, watch in awe as your pappadams are transformed into bite-sized pieces, all while you sit back and enjoy your meal without interruption. It’s the ultimate solution for those who demand convenience and a touch of whimsy at the dinner table! Who knew pappadam crushing could be so entertaining?
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Arduino IDE
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
+- Arduino UNO
+- Servo motor
+- switch
+- jumper wires
 
 ### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
 For Hardware:
 
@@ -81,15 +56,15 @@ For Hardware:
 ### Project Demo
 # Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
+Working of the pappadam crus-o-matic
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Swathika S: Hardware connection
+- Dhanupriya K: Circuit designing
+- Fathima sana PV: Coding and software handling 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
