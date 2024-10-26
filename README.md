@@ -60,7 +60,7 @@ Final result after implementation
 
 ### Project Demo
 # Video
-[![Working of the pappadam crus-o-matic](https://github.com/user-attachments/assets/7a499aa7-feac-4d3f-bf30-24d265c520d8)
+[![Working of the pappadam crush-o-matic](https://github.com/user-attachments/assets/7a499aa7-feac-4d3f-bf30-24d265c520d8)
 
 
 
