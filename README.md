@@ -1,4 +1,4 @@
-<img width="1280" alt="readme-banner" src="![image](https://github.com/user-attachments/assets/f406d334-cbe0-46ed-991d-ae6dd710da72)">
+<img width="1280" alt="readme-banner" src="![image](https://github.com/user-attachments/assets/1f9f9afa-550c-462d-980d-5c2180afff78)">
 
 # Pappadam Crush-O-Matic
 പൊടിയ്ക്കലിന്റെ പുതിയ തലമുറ 🎯
