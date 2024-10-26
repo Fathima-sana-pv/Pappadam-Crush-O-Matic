@@ -1,4 +1,5 @@
-<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
+<img width="1280" alt="readme-banner" src="![image](https://github.com/user-attachments/assets/f406d334-cbe0-46ed-991d-ae6dd710da72)
+">
 
 # Pappadam Crush-O-Matic
 പൊടിയ്ക്കലിന്റെ പുതിയ തലമുറ 🎯
@@ -49,6 +50,9 @@ For Hardware:
 ![WhatsApp Image 2024-10-26 at 3 16 29 AM-min](https://github.com/user-attachments/assets/35b69439-545c-407c-b6fd-173cf1ac5d2e)
 
 ![WhatsApp Image 2024-10-26 at 12 06 16 AM-min](https://github.com/user-attachments/assets/9b59b455-7cde-4933-a901-68281e3f45cd)
+
+![image](https://github.com/user-attachments/assets/3480b3c9-8997-4933-a7f0-377ea30252d1)
+
 
 ![WhatsApp Image 2024-10-26 at 2 56 41 AM-min](https://github.com/user-attachments/assets/a82761f9-a8d2-45d7-a35b-9ac23adb2ffe)
 Final result after implementation
