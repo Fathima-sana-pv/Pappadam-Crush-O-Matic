@@ -45,11 +45,11 @@ For Hardware:
 
 # Build Photos
 ![WhatsApp Image 2024-10-26 at 3 14 54 AM-min](https://github.com/user-attachments/assets/70e5aaa3-4027-4396-b1cb-261f8147f45d)
-Arduino hardware and software
+
 ![WhatsApp Image 2024-10-26 at 3 16 29 AM-min](https://github.com/user-attachments/assets/35b69439-545c-407c-b6fd-173cf1ac5d2e)
-Servo motor and switches
+
 ![WhatsApp Image 2024-10-26 at 12 06 16 AM-min](https://github.com/user-attachments/assets/9b59b455-7cde-4933-a901-68281e3f45cd)
-connected the servo motor and switch with arduino
+
 ![WhatsApp Image 2024-10-26 at 2 56 41 AM-min](https://github.com/user-attachments/assets/a82761f9-a8d2-45d7-a35b-9ac23adb2ffe)
 Final result after implementation
 
