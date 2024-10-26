@@ -14,7 +14,7 @@
 - Member 3: Fathima Sana PV - Government college of engineering kannur
 
 ### Project Description
-An automatic Pappadam crusher that automates the task of crushing pappadams.Usind arduino and servo motors,this bot seamlessly breaks down the pappadams.Perfect for make lazy people more lazier, adding a touch of convenience and fun to any dinning experience.
+An automatic പപ്പടം crusher that automates the task of crushing pappadams.Using arduino and servo motors,this bot seamlessly breaks down the pappadams.Perfect for making lazy people more lazier, adding a touch of convenience and fun to any dinning experience.
 
 ### The Problem 
 Have you ever faced the catastrophic crisis of crushed pappadams? You’re ready to enjoy your meal, but those pesky, delicate snacks refuse to break down into pieces. Instead, they crumple, shatter, or get stuck in your fingers, ruining your dining experience and leading to pappadam panic
