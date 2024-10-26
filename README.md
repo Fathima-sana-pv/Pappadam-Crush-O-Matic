@@ -39,7 +39,8 @@ For Hardware:
 
 # Schematic & Circuit
 
-![circuit diadram](https://github.com/user-attachments/assets/9f36940e-dbd5-43d2-9f8c-99b983d7bde3)
+![image](https://github.com/user-attachments/assets/b501113a-feb9-4fc4-b2a5-f94cfe2a30c7)
+
 
 
 # Build Photos
