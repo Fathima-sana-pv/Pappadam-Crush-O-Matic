@@ -50,7 +50,8 @@ For Hardware:
 
 ![WhatsApp Image 2024-10-26 at 12 06 16 AM-min](https://github.com/user-attachments/assets/9b59b455-7cde-4933-a901-68281e3f45cd)
 
-![image](https://github.com/user-attachments/assets/3480b3c9-8997-4933-a7f0-377ea30252d1)
+![image](https://github.com/user-attachments/assets/566c131e-f88f-4862-b326-386f6f641873)
+
 
 
 ![WhatsApp Image 2024-10-26 at 2 56 41 AM-min](https://github.com/user-attachments/assets/a82761f9-a8d2-45d7-a35b-9ac23adb2ffe)
