@@ -2,6 +2,9 @@
 
 # Pappadam Crush-O-Matic
 പൊടിയ്ക്കലിന്റെ പുതിയ തലമുറ 🎯
+# Video
+[![Working of the pappadam crush-o-matic](https://github.com/user-attachments/assets/7a499aa7-feac-4d3f-bf30-24d265c520d8)
+
 
 
 ## Basic Details
